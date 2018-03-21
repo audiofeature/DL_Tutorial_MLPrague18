@@ -6,3 +6,4 @@ tensorflow
 # CUDNN: from https://developer.nvidia.com/cudnn - Login required!
 scikit-learn=>0.18
 pandas
+librosa
